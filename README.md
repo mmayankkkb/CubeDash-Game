@@ -7,7 +7,7 @@ The only reason to use google drive link is because, there are too many small pr
 
 
 The size of project files is -257mb
-The size of apk is- 27 mb
+The size of apk is- 25 mb
 
 
 This link contains 2 folders:
